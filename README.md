@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sijan Bhusal
+[![Sijan-Bhusal's GitHub | Stats](https://stats.quine.sh/Sijan-Bhusal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sijan-Bhusal)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sijan Bhusal
 ====================================================================================================================================
 
 Web Developer and UI/UX Designer
