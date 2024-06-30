@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sijan Bhusal
+Hi ! My name is Sijan Bhusal
 ====================================================================================================================================
 
 Web Developer and Designer
@@ -7,7 +7,7 @@ Web Developer and Designer
 I am a passionate web developer and designer from Nepal.
 
 * ✉️  You can contact me at [sijan.bhusal03@gmail.com](mailto:sijan.bhusal03@gmail.com)
-* 🧠  I'm currently learning DSA with C++
+* 🧠  I'm currently learning Full Stack.
 * 🤝  I'm open to collaborating on material design system and wordpress projects
 
 <a href="https://www.github.com/Sijan-Bhusal" target="_blank" rel="noreferrer"><img
