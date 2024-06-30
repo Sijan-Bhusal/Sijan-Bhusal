@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and UI/UX Designer
 --------------------------------
 
-I am a passionate web developer and UI/UX designer from Nepal.
+I am a passionate web developer and designer from Nepal.
 
 * ✉️  You can contact me at [sijan.bhusal03@gmail.com](mailto:sijan.bhusal03@gmail.com)
 * 🧠  I'm currently learning DSA with C++
