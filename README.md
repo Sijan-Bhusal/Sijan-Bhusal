@@ -7,7 +7,6 @@ Web Developer and Designer
 I am a passionate web developer and designer from Nepal.
 
 * ✉️  You can contact me at [sijan.bhusal03@gmail.com](mailto:sijan.bhusal03@gmail.com)
-* 🧠  I'm currently learning Full Stack.
 * 🤝  I'm open to collaborating on material design system and wordpress projects
 
 <a href="https://www.github.com/Sijan-Bhusal" target="_blank" rel="noreferrer"><img
