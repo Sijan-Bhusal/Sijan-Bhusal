@@ -16,9 +16,6 @@
 - 🌱 Learning **Dart & Java**
 - 👯 Looking to collaborate on **Open-Source Projects**
 - 📝 I write articles on [**my blog**](https://www.sijanbhusal.com.np/blogs)
-- 👨‍💻 Check out my projects at [**sijanbhusal.com.np**](https://www.sijanbhusal.com.np)
-- 📫 Reach me at **sijan.bhusal03@gmail.com**
-
 ---
 
 ## 🔗 Connect with Me
@@ -42,6 +39,7 @@
 ![Dart](https://skillicons.dev/icons?i=dart)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
