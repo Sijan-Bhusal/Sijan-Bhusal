@@ -2,7 +2,7 @@
   
 # Hi there, I'm Sijan Bhusal 👋
 
-### 🚀 Passionate Flutter & Mobile App Developer
+### 🚀 Web & App Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sijan-Bhusal&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Sijan-Bhusal)
 
@@ -15,7 +15,6 @@
 - 🔭 Currently working on **Flutter Projects**
 - 🌱 Learning **Dart & Java**
 - 👯 Looking to collaborate on **Open-Source Projects**
-- 📝 I write articles on [**my blog**](https://www.sijanbhusal.com.np/blogs)
 ---
 
 ## 🔗 Connect with Me
@@ -86,7 +85,5 @@
 <div align="center">
   
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**⭐ From [Sijan Bhusal](https://github.com/Sijan-Bhusal)**
 
 </div>
