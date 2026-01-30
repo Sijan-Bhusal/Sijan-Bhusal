@@ -1,89 +1,58 @@
 <div align="center">
   
-# Hi there, I'm Sijan Bhusal 👋
+  ```console
+sijan@github:~$ echo "Web & App Developer"
+```
 
-### 🚀 Web & App Developer
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Sijan-Bhusal&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Sijan-Bhusal)
-
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </div>
-
----
+</div>
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Flutter Projects**
-- 🌱 Learning **Dart & Java**
-- 👯 Looking to collaborate on **Open-Source Projects**
----
+- Build full-stack apps
+- Spend most of my time on terminal
+- Contribute more on open source projects.
 
-## 🔗 Connect with Me
+## 🌐 Socials:
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sijan-Bhusal)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sijan-bhusal07)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sijanbhusal.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sijan.bhusal03@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sijanvusal)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sijanvusal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sijanvusal)
 
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
+### 💻 Languages
 
-<div align="center">
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Dart](https://skillicons.dev/icons?i=dart)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![React](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Python](https://skillicons.dev/icons?i=py)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=cs)
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![Unity](https://skillicons.dev/icons?i=unity)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Blender](https://skillicons.dev/icons?i=blender)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Qt](https://skillicons.dev/icons?i=qt)
-![GTK](https://skillicons.dev/icons?i=gtk)
+### 🛠️ Frameworks & Tools
 
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+## 📊 GitHub Stats:
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Sijan-Bhusal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sijan-Bhusal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sijan-Bhusal&theme=tokyonight&hide_border=true)](https://github.com/Sijan-Bhusal)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sijan-Bhusal&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Sijan's%20Contribution%20Graph)
