@@ -55,6 +55,6 @@ sijan@github:~$ echo "Web & App Developer"
 
 ## 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=Sijan-Bhusal&style=flat-square&label=Visitors&color=2E3354)
+![Profile Views](https://komarev.com/ghpvc/?username=Sijan-Bhusal&style=flat-square&label=Visitors&color=2E3354)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sijan-Bhusal&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Sijan's%20Contribution%20Graph)
